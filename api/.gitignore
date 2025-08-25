@@ -1,0 +1,24 @@
+# Visual Studio
+.vs/
+.vscode/
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# User-specific
+*.user
+*.rsuser
+*.suo
+
+# Logs
+*.log
+
+# Dotnet artifacts
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Others
+*.dbmdl
+*.bak

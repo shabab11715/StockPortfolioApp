@@ -1,0 +1,19 @@
+# React
+node_modules/
+build/
+.env
+
+# .NET
+bin/
+obj/
+*.db
+*.dll
+*.exe
+
+# Logs
+*.log
+
+# IDE
+.vs/
+*.user
+*.suo
